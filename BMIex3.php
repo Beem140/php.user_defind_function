@@ -67,7 +67,7 @@
 <body>
     <div class="container">
         <h1>BMI Calculator</h1>
-        <form method="POST" action="BMInew.php">
+        <form method="POST" action="BMIex3.php">
             <div class="form-group">
                 <label for="firstname">First Name:</label>
                 <input type="text" id="firstname" name="firstname" required>
